@@ -1,4 +1,4 @@
-def not_safe? = 51
+unsafe = 51
 if speed < 50
     "not_safe"
 else
