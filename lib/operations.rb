@@ -1,8 +1,5 @@
-unsafe = 51
-if speed < 50
-    "not_safe"
-else
-    "safe"
+speed = 51
+speed > 50 ? "unsafe" : "safe"
 
   end
 
